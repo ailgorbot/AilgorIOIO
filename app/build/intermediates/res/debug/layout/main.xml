@@ -1,0 +1,56 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="16dp" >
+
+
+    <Button
+        android:id="@+id/backgroundButton"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentLeft="true"
+        android:text="@string/run_background"
+        android:onClick="onButtonClick" />
+
+
+
+    <Button
+        android:id="@+id/ioioButton"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_above="@+id/backgroundButton"
+        android:layout_alignParentLeft="true"
+        android:text="@string/run_ioio"
+        android:onClick="onButtonClick" />
+
+    <Button
+        android:id="@+id/settingsButton"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_above="@+id/ioioButton"
+        android:layout_alignParentLeft="true"
+        android:text="@string/settings"
+        android:onClick="onButtonClick" />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Led Button"
+        android:id="@+id/ledButton"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="103dp" />
+
+    <TextView
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="New Text"
+        android:id="@+id/textClient"
+        android:layout_below="@+id/ledButton"
+        android:layout_centerHorizontal="true"
+        android:layout_alignParentStart="false" />
+
+</RelativeLayout>
+<!-- From: file:/C:/Users/Ailgor/OneDrive/AndroidStudioProjects/AilgorIOIO/app/src/main/res/layout/main.xml -->

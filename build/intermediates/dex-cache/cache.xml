@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Ailgor\OneDrive\AndroidStudioProjects\AilgorIOIO\app\libs\ioiolibbt.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="3747fea18a8595d07de6dbf4c6b93f738846a626">
+        <dex dex="C:\Users\Ailgor\OneDrive\AndroidStudioProjects\AilgorIOIO\app\build\intermediates\pre-dexed\debug\ioiolibbt-340662a85b74b988311fc992c2169aa36814ffb4.jar" />
+    </item>
+    <item
+        jar="C:\Users\Ailgor\OneDrive\AndroidStudioProjects\AilgorIOIO\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="81d42bf983a8741f4888a6e333e454e4a5e0eeb7">
+        <dex dex="C:\Users\Ailgor\OneDrive\AndroidStudioProjects\AilgorIOIO\app\build\intermediates\pre-dexed\debug\classes-b38e407dcd173ad0228e332a3a11a328fae66540.jar" />
+    </item>
+    <item
+        jar="C:\Users\Ailgor\OneDrive\AndroidStudioProjects\AilgorIOIO\app\libs\ioiolibandroiddevice.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="0f15df282239eaf800d943033031b12e5dcb45c5">
+        <dex dex="C:\Users\Ailgor\OneDrive\AndroidStudioProjects\AilgorIOIO\app\build\intermediates\pre-dexed\debug\ioiolibandroiddevice-22c0fb2298a8b9d1c04aa88f6ec7735830492074.jar" />
+    </item>
+    <item
+        jar="C:\Users\Ailgor\OneDrive\AndroidStudioProjects\AilgorIOIO\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="C:\Users\Ailgor\OneDrive\AndroidStudioProjects\AilgorIOIO\app\build\intermediates\pre-dexed\debug\classes-c90f7c17846058cc3bb9b772a0ec9458c1ee5c50.jar" />
+    </item>
+    <item
+        jar="C:\Users\Ailgor\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\21.0.3\support-annotations-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
+        <dex dex="C:\Users\Ailgor\OneDrive\AndroidStudioProjects\AilgorIOIO\app\build\intermediates\pre-dexed\debug\support-annotations-21.0.3-267719089e45a2701ed0f0bc0e56606fb662c1f3.jar" />
+    </item>
+    <item
+        jar="C:\Users\Ailgor\OneDrive\AndroidStudioProjects\AilgorIOIO\app\libs\ioiolibandroid.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="fb7f2cb0326ea58fd6ba9c63bde46fa3c6eb32a1">
+        <dex dex="C:\Users\Ailgor\OneDrive\AndroidStudioProjects\AilgorIOIO\app\build\intermediates\pre-dexed\debug\ioiolibandroid-c0b919b5352a577384920bdc2c4b0fac9ea7f066.jar" />
+    </item>
+    <item
+        jar="C:\Users\Ailgor\OneDrive\AndroidStudioProjects\AilgorIOIO\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\libs\internal_impl-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="C:\Users\Ailgor\OneDrive\AndroidStudioProjects\AilgorIOIO\app\build\intermediates\pre-dexed\debug\internal_impl-21.0.3-fef31a9c49febec84dc5a9015b243d3761d7f7f7.jar" />
+    </item>
+    <item
+        jar="C:\Users\Ailgor\OneDrive\AndroidStudioProjects\AilgorIOIO\app\libs\ioiolibaccessory.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="d0ace06f209f3e42717c90166f609803d8f46325">
+        <dex dex="C:\Users\Ailgor\OneDrive\AndroidStudioProjects\AilgorIOIO\app\build\intermediates\pre-dexed\debug\ioiolibaccessory-35a03ea2136ad6559fcd841c48a415ca17c0cf9a.jar" />
+    </item>
+
+</items>
